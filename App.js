@@ -8,6 +8,8 @@ import { OrdnerSummary } from './components/OrdnerSummary';
 import {Products} from './components/Products'
 import { UserDetais } from './components/UserDetais';
 import { MyUsers } from './components/MyUsers';
+import { MyUsers } from './components/MyUser';
+import { MyUsers } from './components';
 
 function App() {
   return (
